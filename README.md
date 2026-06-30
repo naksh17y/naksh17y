@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @naksh17y
-- 🌱 I’m currently learning cyber security
-- 💞️ I’m looking to collaborate on c.s.
-- 📫 How to reach me social media
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: i am a chill kind a guy
-  
 # 💫 About Me:
 I am a security-focused developer specializing in cloud infrastructure, cybersecurity, and applied machine learning. I enjoy building robust systems and exploring network defense mechanisms.<br><br>### 🛠️ Tech Stack & Tools<br>* **Security & Networking:** Intrusion Detection Systems (IDS), Network Security, Threat Modeling<br>* **Cloud & DevOps:** AWS (SAM, ECS, CDK), Cloud-Native Architecture<br>* **Languages & Data:** Python, Microsoft Excel (Advanced Data Manipulation)<br>* **Writing & Research:** Technical Documentation (IEEE Standards), LaTeX<br><br>### 🔭 What I'm Working On<br>* Developing a Cloud-Native Intrusion Detection System on AWS.<br>* Enhancing a Retrieval-Augmented Generation (RAG) implementation.<br>* Exploring IoT security within smart infrastructure environments.<br>  
 
